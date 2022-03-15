@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Reminder-App
+  annotations:
+    github.com/project-slug: roaanv/Reminder-App
+spec:
+  type: other
+  lifecycle: unknown
+  owner: roaanv
